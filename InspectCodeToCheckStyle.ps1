@@ -6,7 +6,7 @@ function InspectCode-To-CheckStyle
   .DESCRIPTION
     The Jenkins Violations Plugin does not support InspectCode output. As a result I created this
     function to convert InspectCode output to a CheckStyle output.
-    You can either import this script into your powershell build scrupt or call this script from a 
+    You can either import this script into your powershell build script or call this script from a 
     Jenkins Windows Batch file Step. 
   .EXAMPLE
     #Import the script to your script 
